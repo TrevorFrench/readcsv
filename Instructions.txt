@@ -1,0 +1,4 @@
+1. Download node.js
+2. Save data file inside this folder and name it "data.csv"
+3. Replace "vol" with desired column name in the javascript file
+4. Navigate to Folder in the terminal and type "node readCSV"
